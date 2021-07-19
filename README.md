@@ -8,7 +8,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Viney29.viney29)
 
-I am a UI Developer and Biker. I love Code, Coffee and Traveling.
+I am a UI Developer and Biker. I love Code, Coffee and Travel.
 
 
 <img align="right" alt="GIF" src="https://github.com/Viney29/viney29/blob/master/coding.gif?raw=true" width="408" height="318" />
