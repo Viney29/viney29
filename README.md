@@ -18,7 +18,7 @@ I am a UI Developer and Biker. I love 👨🏻‍💻Code, ☕️Coffee and 🏍
 
 - 👨🏻‍💻 I’m currently working on something cool;
 - 🚀 Learning about Crypto;
-- 🏍 Proud owner of Interceptor 650 and 🚗Jeep 4x4;
+- 🏍 Proud owner of Interceptor 650 and 🚗 Jeep 4x4;
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I will start writing articles soon on [medium](https://medium.com/@cssbird);
 - 📫 Reach me: viney.bishnoi@gmail.com;
